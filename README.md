@@ -19,3 +19,7 @@ Projeto construído do evento  Next Level Week da Rocketseat.
 ## 💚 Contato
 
 rafael.roberto200618@gmail.com
+
+---
+
+Feito com ♥ by Rocketseat :wave: [Participe da nossa comunidade!](https://discord.gg/rocketseat)
